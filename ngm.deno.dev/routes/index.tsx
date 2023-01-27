@@ -5,16 +5,26 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Fresh App</title>
+                <title>NGM</title>
             </Head>
             <div class="p-4 mx-auto max-w-screen-md">
-                <img
-                    src="/logo.svg"
-                    class="w-32 h-32"
-                    alt="the fresh logo: a sliced lemon dripping with juice"
-                />
-                <p class="my-6">Salam Aleikum!</p>
-                <Counter start={3} />
+                <ul>
+                    <li>
+                        <a href="/release-2023-01-27/mailgw-v.0.0.1.tar.gz">
+                            Mail Gw
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/release-2023-01-27/mailgw-logservice-v.0.0.1.tar.gz">
+                            Log Service
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/release-2023-01-27/mailgw-webui-v.0.2.tar.gz">
+                            Web UI
+                        </a>
+                    </li>
+                </ul>
             </div>
         </>
     )
