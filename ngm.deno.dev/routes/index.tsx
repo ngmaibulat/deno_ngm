@@ -10,7 +10,7 @@ export default function Home() {
             <div class="p-4 mx-auto max-w-screen-md">
                 <ul>
                     <li>
-                        <a href="/release-2023-01-27/mailgw-v.0.0.1.tar.gz">
+                        <a href="/release-2023-01-30/mailgw-0.0.3.tar.gz">
                             Mail Gw
                         </a>
                     </li>
