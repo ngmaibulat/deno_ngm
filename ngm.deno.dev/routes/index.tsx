@@ -15,7 +15,7 @@ export default function Home() {
                         </a>
                     </li>
                     <li>
-                        <a href="/release-2023-01-27/mailgw-logservice-v.0.0.1.tar.gz">
+                        <a href="/release-2023-01-30/mailgw-logservice-0.0.2.tar.gz">
                             Log Service
                         </a>
                     </li>
